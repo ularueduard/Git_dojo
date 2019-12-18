@@ -1,5 +1,6 @@
 def Hello():
-    return "Hello World!"
+    asta face ceva
 
 
-Hello()
+def joke():
+    "hai sa facem o gluma"
