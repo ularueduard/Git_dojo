@@ -8,3 +8,7 @@ def add():
 
 Hello()
 add()
+
+
+def joke():
+    return " o gluma buna"
