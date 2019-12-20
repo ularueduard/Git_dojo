@@ -1,5 +1,5 @@
 def Hello():
-    asta face ceva
+    x = "asta face ceva"
 
 
 def add():
@@ -8,3 +8,7 @@ def add():
 
 Hello()
 add()
+
+
+def add2():
+    return "Add"
